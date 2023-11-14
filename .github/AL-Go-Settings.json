@@ -1,6 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@unknowndep",
-  "useCompilerFolder": true,
-  "doNotPublishApps": false
+  "useCompilerFolder": false,
+  "doNotPublishApps": true
 }
