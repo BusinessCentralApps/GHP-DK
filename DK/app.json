@@ -22,14 +22,8 @@
             "name":  "W1",
             "publisher":  "Freddy",
             "version":  "1.0.0.0"        
-        },
-                         {
-                             "id": "33d10b94-ce65-4467-8728-b933030ea548",
-                             "name": "JM-CAI Extension",
-                             "publisher": "Johnson Matthey",
-                             "version": "1.0.0.0"
-                        }
-                     ],
+        }
+    ],
     "screenshots":  [
 
                     ],
