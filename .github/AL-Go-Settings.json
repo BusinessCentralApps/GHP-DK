@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@bcptreport",
-  "useCompilerFolder": true,
-  "doNotPublishApps": true,
+  "useCompilerFolder": false,
+  "doNotPublishApps": false,
   "templateSha": "9e978a341a18b25044c40e48cccbc44873b759fb"
 }
