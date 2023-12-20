@@ -4,11 +4,5 @@
   "DoNotUseCdnForArtifacts": true,
   "useCompilerFolder": true,
   "doNotPublishApps": true,
-  "templateSha": "90335a8c76f3cd4d45b04b50e9e8c2a7409e1d98",
-  "TrustedNuGetFeeds": [
-    {
-      "url": "https://nuget.pkg.github.com/businesscentralapps/index.json",
-      "authTokenSecret": "ghTokenWorkflow"
-    }
-  ]
+  "templateSha": "90335a8c76f3cd4d45b04b50e9e8c2a7409e1d98"
 }
