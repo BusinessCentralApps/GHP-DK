@@ -1,8 +1,8 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
+  "templateUrl": "https://github.com/freddydk/AL-Go@nuget",
   "DoNotUseCdnForArtifacts": true,
   "useCompilerFolder": true,
   "doNotPublishApps": true,
-  "templateSha": "90335a8c76f3cd4d45b04b50e9e8c2a7409e1d98"
+  "templateSha": "ccf5b5b25fb618c9dbfde4662b7017eb9d8f94f2"
 }
