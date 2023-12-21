@@ -4,5 +4,6 @@
   "DoNotUseCdnForArtifacts": true,
   "useCompilerFolder": true,
   "doNotPublishApps": true,
+  "generateDependencyArtifact": true,
   "templateSha": "ccf5b5b25fb618c9dbfde4662b7017eb9d8f94f2"
 }
