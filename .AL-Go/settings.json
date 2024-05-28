@@ -1,7 +1,8 @@
 {
-  "country": "us",
+  "country": "dk",
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "generateDependencyArtifact": true
+  "generateDependencyArtifact": true,
+  "artifact": "/sandbox/24.1.18927.20080/dk/closest"
 }
