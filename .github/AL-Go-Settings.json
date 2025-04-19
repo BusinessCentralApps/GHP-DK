@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@githubpackages",
-  "templateSha": "9cff358805560277a3cac3f3d50312471032bf3f",
+  "templateSha": "1c6ff78dde5527a1c65bb5d8deff601ae2a7a0e8",
   "gitHubRunner": "windows-2025",
   "runs-on": "ubuntu-latest"
 }
