@@ -3,5 +3,6 @@
   "templateUrl": "https://github.com/freddydk/AL-Go@githubpackages",
   "templateSha": "615419fdf72c4bb4117800cbebe9cddcb590e65f",
   "gitHubRunner": "windows-2025",
-  "runs-on": "ubuntu-latest"
+  "runs-on": "ubuntu-latest",
+  "PullRequestTrigger": "pull_request"
 }
